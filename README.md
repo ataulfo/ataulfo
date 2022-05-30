@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4>Sobre mim</h4>
-Uma pessoa que mexe no computador desde os 15 anos de idade, sempre curioso em saber como as coisas funcionam, até então, nasceu a verdadeira paixão em aprender e aplicar os conhecimentos adquiridos para criar coisas que possam ajudar as pessoas e empresas a ter o mínimo de esforço humano, através de sistemas que automatizem seus processos.
+Uma pessoa que mexe no computador desde aos 15 anos de idade, sempre curioso em saber como as coisas funcionam, até então, nasceu a verdadeira paixão em aprender e aplicar os conhecimentos adquiridos para criar coisas que possam ajudar as pessoas e empresas a terem o mínimo de esforço humano, através de sistemas que automatizem seus processos.
 
 <h4>Filosofia</h4>
 Usar o conhecimento em prol do bem estar social e da evolução da sociedade como um todo.
